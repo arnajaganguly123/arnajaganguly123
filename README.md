@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 [![Arnaja's github stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-arnajaganguly123&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://github.com/arnajaganguly123/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-arnajaganguly123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/arnajaganguly123/github-readme-stats)
 
 Languages I Use:
 
