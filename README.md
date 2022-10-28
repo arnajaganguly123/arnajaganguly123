@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
+  ![Profile views](https://gpvc.arturio.dev/[arnajaganguly123])
 
 <div align="center">
   👋 Hi, I’m Arnaja 
