@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 [![Arnaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&show_icons=true&bg_color=000000)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnajaganguly123&theme=dark)](https://git.io/streak-stats)
