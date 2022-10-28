@@ -1,4 +1,3 @@
--👋 Hi, I’m Arnaja 
 <!---
 arnajaganguly123/arnajaganguly123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  👋 Hi, I’m Arnaja 
+ </div>
 
 [![Arnaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&show_icons=true&bg_color=000000)
 
