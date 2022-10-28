@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-  ![Profile views](https://gpvc.arturio.dev/[arnajaganguly123])
+  ![image title](https://rushter.com/counter.svg)
 
 <div align="center">
   👋 Hi, I’m Arnaja 
