@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
 </div>
-[![Arnaja's github stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[Arnaja's github stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+--->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnajaganguly123&theme=dark&background=000000)](https://git.io/streak-stats)
 
 Languages I Use:
