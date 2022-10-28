@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-  ![image title](https://rushter.com/counter.svg)
-
 <div align="center">
   👋 Hi, I’m Arnaja 
  </div>
