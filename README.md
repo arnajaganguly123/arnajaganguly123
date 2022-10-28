@@ -9,6 +9,11 @@
 arnajaganguly123/arnajaganguly123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div id="header" align="center">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+    <img src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+  </div><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw"></a></p>
+</div>
 [![Arnaja's github stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnajaganguly123&theme=dark&background=000000)](https://git.io/streak-stats)
