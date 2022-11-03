@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
   👋 Hi, I’m Arnaja 
  </div>
 
-[![Arnaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&show_icons=true&bg_color=000000)
+![Arnaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnajaganguly123&show_icons=true&bg_color=000000)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnajaganguly123&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnajaganguly123&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnajaganguly123&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnajaganguly123&layout=compact&theme=vision-friendly-dark)
 
 Languages and Tools:
 
