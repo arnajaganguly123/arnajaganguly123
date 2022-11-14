@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+Arnaja;Full+Stack+Developer;Student;)](https://git.io/typing-svg)
+
 <div align="center">
   👋 Hi, I’m Arnaja 
  </div>
